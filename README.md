@@ -1,1 +1,2 @@
-# rsschool-cv
+# Vladislava Cadjenovic
+📧 slava923@gmail.com | [<img align="center" alt="rsschool" width="20px"  src="assets\tg-logo.png" />](https://tlgg.ru/@Lado923)[@Lado923](https://tlgg.ru/@Lado923) | [<img align="center" alt="rsschool" width="20px"  src="assets\Discord-Logo-Black.png" />](https://discord.com/users/AXELAREDZ#2908) [lado923](https://discord.com/users/lado923#4487)
