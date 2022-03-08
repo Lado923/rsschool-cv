@@ -64,17 +64,21 @@ I don't have any work expirience, so here is some mine learning projects:
  
  <img alt="rsschool" width="350px" src="assets\meditation_app.png" />
 
- > Meditation app is a simple timer project made with html, css and javascript.
+ > Meditation app is a simple timer project made with html, css and javascript.  
  > User can change timer duration and change video and sound in this app.  
  
+
+
 
 
  - ### [ToDo List app](https://lado923.github.io/ToDo_List/)
 
 <img alt="rsschool" width="350px" src="assets\ToDo_List_app.png" />
 
-> ToDo List app is a simple todo list project made with html, css and javascript.
+> ToDo List app is a simple todo list project made with html, css and javascript.  
 > User can add new tasks, mark them done and delete.  
+
+
 
 
 
@@ -82,9 +86,23 @@ I don't have any work expirience, so here is some mine learning projects:
 
   <img alt="rsschool" width="350px" src="assets\virtual_keyboard_app.png" />
 
-  > Virtual keybord is a learning project made with html, css and javascript.
+  > Virtual keybord is a learning project made with html, css and javascript.  
   > It is module for virtual keyboard and can be used in some other project for desktop or mobile devices.  
 
  ***
 
+## Education
+
+ >![Codewars](https://www.codewars.com/users/Lado923/badges/large)
+
+>![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+[my timeline freecodecamp](https://www.freecodecamp.org/fcce5e1cad2-8246-4c36-92fa-7d9c7b335e46)
+
+>[<img align="rigth" alt="rsschool" width="50px" style="border-radius: 50px"
+ src="assets\photo.jpg" />](https://rs.school/)
+> at present
+
+***
+
+## 
 
