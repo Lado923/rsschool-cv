@@ -56,9 +56,9 @@ function countInnerArrays() {
 
 ***
 
-## Expirience
+## Experience
 
-I don't have any work expirience, so here is some mine learning projects:
+I don't have any work experience, so here is some mine learning projects:
 
  - ### [Meditation app](https://lado923.github.io/meditation_app/)
  
@@ -95,14 +95,17 @@ I don't have any work expirience, so here is some mine learning projects:
 
  >![Codewars](https://www.codewars.com/users/Lado923/badges/large)
 
->![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-[my timeline freecodecamp](https://www.freecodecamp.org/fcce5e1cad2-8246-4c36-92fa-7d9c7b335e46)
+>![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)  
+> [my freeCodeCamp timeline](https://www.freecodecamp.org/fcce5e1cad2-8246-4c36-92fa-7d9c7b335e46)
 
->[<img align="rigth" alt="rsschool" width="50px" style="border-radius: 50px"
- src="assets\photo.jpg" />](https://rs.school/)
+>[<img align="rigth" alt="rsschool" width="50px" src="assets\rsschool_logo.png" />](https://rs.school/)  
 > at present
 
 ***
 
-## 
+## English
+
+<img align="rigth" alt="rsschool" width="50px" src="assets\english_level.png" />
+
+
 
