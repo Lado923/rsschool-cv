@@ -4,14 +4,14 @@
  src="assets\photo.jpg" />
 
  ***
-## Contact info
-📧 slava923@gmail.com | [<img align="center" alt="rsschool" width="20px"  src="assets\tg-logo.png" />](https://t.me/Lado923)[Lado923](https://t.me/Lado923) | [<img align="center" alt="rsschool" width="20px"  src="assets\Discord-Logo-Black.png" />](https://discord.com/users/AXELAREDZ#2908) [lado923](https://discord.com/users/lado923#4487)
+## Contacts info
+📧 slava923@gmail.com   |   [<img align="center" alt="rsschool" width="20px"  src="assets\tg-logo.png" />](https://t.me/Lado923)[Lado923](https://t.me/Lado923)   |   [<img align="center" alt="rsschool" width="20px"  src="assets\Discord-Logo-Black.png" />](https://discord.com/users/AXELAREDZ#2908) [lado923](https://discord.com/users/lado923#4487)
 
 ***
 ## Summary
 
 I'm currently working in online education company as a team-leader. My goal is to change my work sector to IT. I really want to do something more technical and to be a part of good work team.
-I'm learning everything I need to get there. :)
+I'm learning everything that I need to get there. :)
 
 My spare time I spend in training, reading and listening good music.
 
@@ -19,7 +19,7 @@ My spare time I spend in training, reading and listening good music.
 
 ## Skills
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ***
 
@@ -58,19 +58,33 @@ function countInnerArrays() {
 
 ## Expirience
 
-I don't have any work expiriance, so here is some mine learning projects:
+I don't have any work expirience, so here is some mine learning projects:
 
-### [Meditation app](https://lado923.github.io/meditation_app/)
+ - ### [Meditation app](https://lado923.github.io/meditation_app/)
+ 
+ <img alt="rsschool" width="350px" src="assets\meditation_app.png" />
 
-<img align="left" alt="rsschool" width="300px" 
- src="assets\meditation_app.png" /> Meditation app is a simple timer project made with html, css and javascript. User can change timer duration and change video and sound in this app.
+ > Meditation app is a simple timer project made with html, css and javascript.
+ > User can change timer duration and change video and sound in this app.  
+ 
 
- ### [ToDo List app](https://lado923.github.io/ToDo_List/)
 
- <img align="left" alt="rsschool" width="300px" 
- src="assets\ToDo_List_app.png" /> ToDo List app is a simple todo list project made with html, css and javascript. User can add new tasks, mark them done and delete.
+ - ### [ToDo List app](https://lado923.github.io/ToDo_List/)
 
- ### [Virtual keyboard](https://lado923.github.io/Virtual_keyboard/)
+<img alt="rsschool" width="350px" src="assets\ToDo_List_app.png" />
 
-  <img align="left" alt="rsschool" width="300px" 
- src="assets\ToDo_List_app.png" /> Virtual keybord is a learning project made with html, css and javascript. It is module for virtual keyboard and can be used in some other project for desktop or mobile devices.
+> ToDo List app is a simple todo list project made with html, css and javascript.
+> User can add new tasks, mark them done and delete.  
+
+
+
+ - ### [Virtual keyboard](https://lado923.github.io/Virtual_keyboard/)
+
+  <img alt="rsschool" width="350px" src="assets\virtual_keyboard_app.png" />
+
+  > Virtual keybord is a learning project made with html, css and javascript.
+  > It is module for virtual keyboard and can be used in some other project for desktop or mobile devices.  
+
+ ***
+
+
