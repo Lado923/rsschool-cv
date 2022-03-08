@@ -1,11 +1,11 @@
 # Vladislava Cadjenovic
 
-<img align="rigth" alt="rsschool" width="150px" style="border-radius: 50px"
+<img align="rigth" alt="profile image" width="150px" style="border-radius: 50px"
  src="assets\photo.jpg" />
 
  ***
 ## Contacts info
-📧 slava923@gmail.com   |   [<img align="center" alt="rsschool" width="20px"  src="assets\tg-logo.png" />](https://t.me/Lado923)[Lado923](https://t.me/Lado923)   |   [<img align="center" alt="rsschool" width="20px"  src="assets\Discord-Logo-Black.png" />](https://discord.com/users/AXELAREDZ#2908) [lado923](https://discord.com/users/lado923#4487)
+📧 slava923@gmail.com   |   [<img align="center" alt="Telegram" width="20px"  src="assets\tg-logo.png" />](https://t.me/Lado923)[Lado923](https://t.me/Lado923)   |   [<img align="center" alt="Discord" width="20px"  src="assets\Discord-Logo-Black.png" />](https://discord.com/users/AXELAREDZ#2908) [lado923](https://discord.com/users/lado923#4487)
 
 ***
 ## Summary
@@ -62,7 +62,7 @@ I don't have any work experience, so here is some mine learning projects:
 
  - ### [Meditation app](https://lado923.github.io/meditation_app/)
  
- <img alt="rsschool" width="350px" src="assets\meditation_app.png" />
+ <img alt="Meditation app" width="350px" src="assets\meditation_app.png" />
 
  > Meditation app is a simple timer project made with html, css and javascript.  
  > User can change timer duration and change video and sound in this app.  
@@ -73,7 +73,7 @@ I don't have any work experience, so here is some mine learning projects:
 
  - ### [ToDo List app](https://lado923.github.io/ToDo_List/)
 
-<img alt="rsschool" width="350px" src="assets\ToDo_List_app.png" />
+<img alt="ToDo List" width="350px" src="assets\ToDo_List_app.png" />
 
 > ToDo List app is a simple todo list project made with html, css and javascript.  
 > User can add new tasks, mark them done and delete.  
@@ -84,7 +84,7 @@ I don't have any work experience, so here is some mine learning projects:
 
  - ### [Virtual keyboard](https://lado923.github.io/Virtual_keyboard/)
 
-  <img alt="rsschool" width="350px" src="assets\virtual_keyboard_app.png" />
+  <img alt="virtual keyboard" width="350px" src="assets\virtual_keyboard_app.png" />
 
   > Virtual keybord is a learning project made with html, css and javascript.  
   > It is module for virtual keyboard and can be used in some other project for desktop or mobile devices.  
@@ -98,14 +98,11 @@ I don't have any work experience, so here is some mine learning projects:
 >![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)  
 > [my freeCodeCamp timeline](https://www.freecodecamp.org/fcce5e1cad2-8246-4c36-92fa-7d9c7b335e46)
 
->[<img align="rigth" alt="rsschool" width="50px" src="assets\rsschool_logo.png" />](https://rs.school/)  
+>[<img align="rigth" alt="rsschool" width="100px" src="assets\rsschool_logo.png" />](https://rs.school/)  
 > at present
 
 ***
 
 ## English
 
-<img align="rigth" alt="rsschool" width="50px" src="assets\english_level.png" />
-
-
-
+<img align="rigth" alt="english-level" width="50px" src="assets\english_level.png" />
