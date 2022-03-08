@@ -27,6 +27,39 @@ In spare time I spend in training, reading and good music.
 
 ***
 
+## Code Example
+
+```javascript
+
+function deepCount(a){
+    var i = 0
+   var arr = [];
+
+a.forEach(element => {
+    i = i + 1;
+        if(typeof(element) == 'object'){
+            arr = element;
+            countInnerArrays()
+        }
+    });
+function countInnerArrays() {
+    arr.forEach(element => {
+        i = i + 1;
+        if(typeof(element) == 'object'){
+            arr = element;
+            countInnerArrays()
+        }
+
+    })
+}
+
+    return i
+}
+
+```
+
+***
+
 
 
 
