@@ -10,8 +10,23 @@
 ***
 ## Summary
 
-I'm currently working in online education company as team-leader. My goal is to change my work sector to IT.I really want to do something more technical and to be a part of work team.
-I'm learning everething I need to get there. :)
+I'm currently working in online education company as a team-leader. My goal is to change my work sector to IT. I really want to do something more technical and to be a part of good work team.
+I'm learning everything I need to get there. :)
+
 In spare time I spend in training, reading and good music.
+
 ***
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+***
+
+
+
 
