@@ -105,4 +105,4 @@ I don't have any work experience, so here is some mine learning projects:
 
 ## English
 
-<img align="rigth" alt="english-level" width="50px" src="assets\english_level.png" />
+<img align="rigth" alt="english-level" width="100px" src="assets\english_level.png" />
