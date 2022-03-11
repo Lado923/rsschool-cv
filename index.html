@@ -1,27 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="obsidian.css">
+    <script src="rainbow-custom.min.js"></script>
     <title>CV Vladislava Cadjenovic</title>
 </head>
+
 <body>
     <header class="header">
-
+        <h1>Vladislava Čađenović</h1>
+        <img src="assets\photo.jpg" alt="profile picture">
     </header>
-    <aside class="contacts_info">
-        <section class="skills"></section>
-        <section class="education"></section>
-        <section class="english"></section>
-    </aside>
     <main class="main">
+        <aside class="aside">
+            <section class="contacts"></section>
+            <section class="skills"></section>
+            <section class="education"></section>
+            <section class="english"></section>
+        </aside>
         <section class="summary">
-
+            <p>I'm currently working in online education company as a team-leader. My goal is to change my work sector
+                to IT. I really want to do something more technical and to be a part of good work team. I'm learning
+                everything that I need to get there. :)</p>
+            <p>My spare time I spend in training, reading and listening good music.</p>
         </section>
         <section class="code_example">
+            <h2>Code example</h2>
+            <pre><code data-language="js">
+            function deepCount(a){
+                var i = 0
+               var arr = [];
+            
+            a.forEach(element => {
+                i = i + 1;
+                    if(typeof(element) == 'object'){
+                        arr = element;
+                        countInnerArrays()
+                    }
+                });
+            function countInnerArrays() {
+                arr.forEach(element => {
+                    i = i + 1;
+                    if(typeof(element) == 'object'){
+                        arr = element;
+                        countInnerArrays()
+                    }
+            
+                })
+            }
+            
+                return i
+            }
 
+        </code></pre>
         </section>
         <section class="experience">
 
@@ -29,4 +65,5 @@
     </main>
     <footer class="footer"></footer>
 </body>
+
 </html>
