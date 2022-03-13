@@ -13,10 +13,12 @@ background-position-x: right;
 background-position-y: 6vw;
 background-size: 40vw auto;
 }
+
 header{
 display: flex;
 justify-content: space-between;
 margin: 10vw;
+margin-bottom: 2vw;
 }
 
 header img{
@@ -36,9 +38,80 @@ line-height: 8vw;
 header h1::after{
     width: 18vw;
     height: 3vw;
-    background-color: #BEE3F8;
+    background-color: #90cdf4;
     content: '';
     display: block;
     border-radius: 25px;
     margin-top: 2vw;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+aside {
+    width: 25vw;
+    margin-right: 10vw;
+}
+
+li {
+    list-style: none;
+    background-color: #90cdf4;
+    margin-top: 2vw;
+    height: 5vw;
+    width: 34vw;
+    border-radius: 50px;
+    margin-left:-8vw;
+    box-shadow: 6px 6px 15px rgb(180 180 180);
+    font-family: 'Montserrat', sans-serif;
+}
+
+li a{
+    text-decoration: none;
+    padding-left: 1vw;
+    font-size: 3vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    height: 100%;
+}
+.mail {
+    font-size: 2.5vw;
+
+}
+
+li img {
+    width: 3vw;
+    height: 3vw;
+    margin: 0 2vw;
+
+}
+
+
+ul :nth-child(2) {
+    background-color: #fbd38d;
+    margin-left: -3vw;
+    font-size: 3vw;
+
+}
+
+
+ul :nth-child(3) {
+    background-color: #90cdf4;
+    margin-left: -6vw;
+    font-size: 3vw;
+
+}
+
+
+
+
+
+
+.main-container {
+    width: 40vw;
+    margin-left: 10vw;
 }
