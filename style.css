@@ -18,6 +18,7 @@ header{
 display: flex;
 justify-content: space-between;
 margin: 10vw;
+margin-left: 5vw;
 margin-bottom: 2vw;
 }
 
@@ -112,6 +113,21 @@ ul :nth-child(3) {
 
 
 .main-container {
-    width: 40vw;
-    margin-left: 10vw;
+    width: 50vw;
+    margin-left: 5vw;
+}
+
+.summary {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5vw;
+    color: #4299E1;
+}
+
+.summary p {
+    margin-bottom: 2vw;
+}
+
+.summary span {
+color: black;
+font-weight: bold;
 }
