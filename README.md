@@ -10,7 +10,7 @@
 ***
 ## Summary
 
-I'm currently working in online education company as a team-leader. My goal is to change my work sector to IT. I really want to do something more technical and to be a part of good work team.
+I'm currently working in online education company as a team-leader. My goal is to change my work sector to IT. I realy want to do something more technical and to be a part of good work team.
 I'm learning everything that I need to get there. :)
 
 My spare time I spend in training, reading and listening good music.
