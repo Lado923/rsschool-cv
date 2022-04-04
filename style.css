@@ -267,6 +267,19 @@ h3 a {
     height: 10vw;
     width: 100%;
     background-color: #bee3f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.footer a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
 
+.footer a img {
+    width: 5vw;
+}
