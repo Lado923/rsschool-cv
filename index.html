@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="obsidian.css">
+    <title>CV Vladislava Cadjenovic</title>
+</head>
+
+<body>
+    <header class="header">
+        <h1>Vladislava ČAĐENOVIĆ</h1>
+        <img src="assets\photo.jpg" alt="profile picture">
+    </header>
+    <main class="main">
+        <aside class="aside">
+            <section class="contacts">
+                <ul>
+                    <li><a href="mailto:slava923@gmail.com" class="mail"><img src="assets\mail.png"
+                                alt="mail">slava923@gmail.com</a></li>
+                    <li><a href="https://t.me/Lado923"><img src="assets\tg-logo.png" alt="tg logo">Lado923</a></li>
+                    <li><a href="https://discord.com/users/lado923#4487"><img src="assets\Discord-Logo-Black.png"
+                                alt="discord logo">lado923</a></li>
+                </ul>
+            </section>
+            <section class="skills">
+                <h2>Skills</h2>
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+                    alt="HTML">
+                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+                    alt="CSS">
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+                    alt="JS">
+            </section>
+            <section class="education">
+                <h2>Education</h2>
+                <article class="vtsns">
+                    <a href="http://vtsns.edu.rs/" target="_blank">
+                        <img src="assets\vtsns.png" alt="VTSNS">
+                        <p>Undergraduate Graphic & Design Engineering</p>
+                    </a>
+                </article>
+                <article class="codewars">
+                    <a href="https://www.codewars.com/users/Lado923" target="_blank">
+                    <img src="https://www.codewars.com/users/Lado923/badges/large" alt="codeWars">
+                    <p>My Codewars profile</p></a>
+                </article>
+                <article class="freecodecamp">
+                    <a href="https://www.freecodecamp.org/Lado923" target="_blank">
+                    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="freecodecamp">
+                    <p>My freeCodeCamp timeline</p></a>
+                </article>
+                <article class="rsschool">
+                    <a><img src="assets\rsschool_logo.png" alt="rsschool">
+                    <p>At present</p></a>
+                </article>
+            </section>
+            <section class="languages">
+                <h2>Languages</h2>
+                <p><span>Russian</span><span>:</span><span class="blue">native</span></p>
+                <p><span>Serbian</span><span>:</span><span class="blue">native</span></p>
+                <p><span>English</span><span>:</span><span class="blue">b1 - b2</span></p>
+                <a href="https://www.efset.org/cert/UF5G6u" target="_blank">
+                    <p>EF SET Certificate of English level:</p>
+                    <img src="assets\certificate_66.png" alt="english_certificate">
+                </a>
+            </section>
+        </aside>
+        <div class="main-container">
+            <section class="summary">
+                <p>I'm currently working in online education company as a <span>team-leader</span>. I realy want to do
+                    something more <span>technical</span> and to be a part of good work team. I'm learning
+                    everything that I need to get there. :)</p>
+            </section>
+            <section class="code_example">
+                <h2>Code example</h2>
+                <pre><code data-language="js">
+function deepCount(a) {
+    var i = 0
+    var arr = [];
+                    
+    a.forEach(element => {
+        i = i + 1;
+        if (typeof (element) == 'object') {
+            arr = element;
+            countInnerArrays()
+        }
+    });
+    function countInnerArrays() {
+        arr.forEach(element => {
+            i = i + 1;
+            if (typeof (element) == 'object') {
+                arr = element;
+                countInnerArrays()
+            }
+                    
+        })
+    }
+                    
+    return i
+}
+        </code></pre>
+            </section>
+            <section class="experience">
+                <h2>Experience</h2>
+                <p>I don't have any work experience, so here is some mine learning projects:</p>
+                <article>
+                    <h3><a href="https://lado923.github.io/meditation_app/" target="_blank">Meditation app</a></h3>
+                    <p>Meditation app is a simple timer project made with <span>html, css</span> and <span>javascript.</span> User can change timer
+                        duration and change <span>video and sound</span> in this app.</p>
+                    <a href="https://lado923.github.io/meditation_app/" target="_blank"><img src="assets\meditation_app.png" alt="meditation_app"></a>
+                </article>
+                <article>
+                    <h3><a href="https://lado923.github.io/ToDo_List/" target="_blank">ToDo List app</a></h3>
+                    <p>ToDo List app is a simple todo list project made with <span>html, css</span> and <span>javascript.</span> User can add new
+                    <span>tasks</span>, mark them done and delete.</p>
+                        <a href="https://lado923.github.io/ToDo_List/" target="_blank"><img src="assets\ToDo_List_app.png" alt="ToDo List"></a>
+                </article>
+                <article>
+                    <h3><a href="https://lado923.github.io/Virtual_keyboard/" target="_blank">Virtual keyboard</a></h3>
+                    <p>Virtual keybord is a learning project made with <span>html, css</span> and <span>javascript.</span> It is module for 
+virtual
+                        keyboard and can be used in some other project for <span>desktop</span> or <span>mobile</span> devices.</p>
+                    <a href="https://lado923.github.io/Virtual_keyboard/" target="_blank"><img src="assets\virtual_keyboard_app.png" alt="virtual_keyboard_app"></a>
+                </article>
+            </section>
+        </div>
+    </main>
+    <footer class="footer"><a href="https://github.com/Lado923" target="_blanc">
+       <img src="assets\Octocat.png" alt="github"> 
+        Lado923</a></footer>
+    <script src="rainbow-custom.min.js"></script>
+</body>
+
+</html>
