@@ -1,0 +1,285 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+body {
+    background-image: url("./assets/header.png");
+background-repeat: no-repeat;
+background-position-x: right;
+background-position-y: 6vw;
+background-size: 40vw auto;
+}
+
+header{
+display: flex;
+justify-content: space-between;
+margin: 10vw;
+margin-left: 5vw;
+margin-bottom: 2vw;
+}
+
+header img{
+    width: 25vw;
+    border-radius: 100%;
+    height: 25vw;
+}
+
+header h1{
+display: inline;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+font-size: 7vw;
+line-height: 8vw;
+}
+
+header h1::after{
+    width: 18vw;
+    height: 3vw;
+    background-color: #90cdf4;
+    content: '';
+    display: block;
+    border-radius: 25px;
+    margin-top: 2vw;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+aside {
+    width: 25vw;
+    margin-right: 10vw;
+}
+
+li {
+    list-style: none;
+    background-color: #90cdf4;
+    margin-top: 2vw;
+    height: 5vw;
+    width: 34vw;
+    border-radius: 50px;
+    margin-left:-8vw;
+    box-shadow: 6px 6px 15px rgb(180 180 180);
+    font-family: 'Montserrat', sans-serif;
+}
+
+li a{
+    text-decoration: none;
+    padding-left: 1vw;
+    font-size: 3vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    height: 100%;
+}
+.mail {
+    font-size: 2.5vw;
+
+}
+
+li img {
+    width: 3vw;
+    height: 3vw;
+    margin: 0 2vw;
+
+}
+
+
+ul :nth-child(2) {
+    background-color: #fbd38d;
+    margin-left: -3vw;
+    font-size: 3vw;
+
+}
+
+
+ul :nth-child(3) {
+    background-color: #90cdf4;
+    margin-left: -6vw;
+    font-size: 3vw;
+
+}
+
+.skills {
+    margin-top: 16vw;
+}
+
+.skills img{
+    margin-bottom: 2vw;
+    display: block;
+    height: 4vw;
+}
+
+.education{
+    margin-top: 6vw;
+}
+
+.education a{
+    text-decoration: none;
+    color: black;
+}
+
+.education article {
+    margin-bottom: 4vw;
+    border-left: 0.5vw solid #90cdf4;
+    padding-left: 2vw;
+}
+
+.education article a p{
+    margin-top: 1vw;
+    font-size: 1.5vw;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.education img{
+width: 25vw;
+}
+
+.codewars img{
+    width: 30vw;
+}
+.freecodecamp img{
+    width: 25vw;
+}
+.rsschool img{
+    width: 15vw;
+}
+
+
+.languages{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 8vw;
+    padding-left: 2vw;
+    border-left: #90cdf4 0.5vw dashed;
+}
+
+.languages h2{
+    margin-bottom: 3vw;
+}
+
+.languages p{
+    display: flex;
+    width: 20vw;
+    justify-content: space-between;
+    margin-bottom: 2vw;
+    font-size: 2.5vw;
+}
+
+.languages a img{
+    width: 20vw;
+    font-size: 2vw;
+}
+
+.languages a {
+    text-decoration: none;
+}
+.languages a p{
+    margin-top: 4vw;
+    font-size: 1.5vw;
+    color: black;
+    margin-bottom: 0;
+}
+
+.blue{
+    color: #4299E1;
+    font-weight: bold;
+}
+
+
+
+
+
+.main-container {
+    width: 50vw;
+    margin-left: 5vw;
+}
+
+.summary {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5vw;
+    color: #4299E1;
+    margin-bottom: 10vw;
+}
+
+.summary p {
+    margin-bottom: 2vw;
+}
+
+.summary span {
+color: black;
+font-weight: bold;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4vw;
+    margin-bottom: 2vw;
+}
+
+pre {
+    border-radius: 25px;
+}
+
+.experience{
+    width: 50vw;
+    margin-top: 8vw;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5vw;
+}
+
+.experience article {
+    padding:0 2vw;
+    padding-bottom: 1vw;
+    border: #90cdf4 0.5vw solid;
+    margin: 2vw 0;
+}
+
+.experience img {
+    width: 30vw;
+    margin-top: 1vw;
+}
+
+h3{
+    margin-bottom: 2vw; 
+    margin-top: 3vw;
+}
+
+h3 a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3vw;
+    text-decoration: none;
+    color: #4299E1;
+    font-weight: 150;
+}
+
+.experience article p span{
+    color: #4299E1;
+}
+
+.footer {
+    height: 10vw;
+    width: 100%;
+    background-color: #bee3f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+
+.footer a img {
+    width: 5vw;
+}
